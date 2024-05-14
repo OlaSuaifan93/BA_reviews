@@ -1,0 +1,11 @@
+num_passengers,sales_channel,trip_type,purchase_lead,length_of_stay,flight_hour,flight_day,route,booking_origin,wants_extra_baggage,wants_preferred_seat,wants_in_flight_meals,flight_duration
+3,Internet,RoundTrip,30,17,8,Mon,CMBMEL,Australia,1,1,1,8
+2,Mobile,OneWay,15,3,14,Fri,COKMEL,Australia,0,0,0,12
+1,Internet,CircleTrip,45,5,10,Wed,COKMEL,India,1,1,1,15
+4,Internet,RoundTrip,60,10,12,Sat,COKSYD,Australia,1,0,1,10
+5,Internet,OneWay,10,2,6,Thu,KCHKIX,Japan,0,1,0,6
+2,Internet,OneWay,20,4,16,Tue,DMKPER,United States,1,0,1,14
+3,Internet,RoundTrip,5,8,9,Sun,IKAPER,United States,0,1,0,9
+2,Mobile,RoundTrip,25,6,11,Mon,DMKPER,United Kingdom,1,0,1,11
+4,Internet,CircleTrip,35,9,13,Wed,IKAPER,Australia,1,1,1,13
+1,Mobile,OneWay,50,1,7,Fri,IKAPUS,South Korea,0,0,0,7
